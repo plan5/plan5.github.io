@@ -137,7 +137,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playVideo",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/player.vimeo.com\/video\/506285375"
                 }],
