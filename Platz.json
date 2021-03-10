@@ -105,6 +105,12 @@
          "id":13,
          "name":"postkolonialClip",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/hoVParp4RMU"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":64,
