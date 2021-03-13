@@ -107,7 +107,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsiteTrigger",
+                 "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube-nocookie.com\/embed\/hoVParp4RMU"
                 }],
