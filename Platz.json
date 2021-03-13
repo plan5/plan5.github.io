@@ -23312,7 +23312,7 @@
         {
          "columns":5,
          "firstgid":2733,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/freiburg-postkolonial.png",
+         "image":".\/logos\/freiburg-postkolonial.png",
          "imageheight":64,
          "imagewidth":160,
          "margin":0,
@@ -23325,7 +23325,7 @@
         {
          "columns":7,
          "firstgid":2743,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/aktion-bleiberecht.png",
+         "image":".\/logos\/aktion-bleiberecht.png",
          "imageheight":64,
          "imagewidth":224,
          "margin":0,
@@ -23338,7 +23338,7 @@
         {
          "columns":2,
          "firstgid":2757,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/colorfulvoices.png",
+         "image":".\/logos\/colorfulvoices.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -23351,7 +23351,7 @@
         {
          "columns":2,
          "firstgid":2761,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/eineweltforum.png",
+         "image":".\/logos\/eineweltforum.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -23364,7 +23364,7 @@
         {
          "columns":6,
          "firstgid":2765,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/fernsicht_logo.png",
+         "image":".\/logos\/fernsicht_logo.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -23377,7 +23377,7 @@
         {
          "columns":8,
          "firstgid":2777,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/INkzeitung.png",
+         "image":".\/logos\/INkzeitung.png",
          "imageheight":64,
          "imagewidth":256,
          "margin":0,
@@ -23390,7 +23390,7 @@
         {
          "columns":8,
          "firstgid":2793,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/Migrantinnenbeirat_Signet.jpg",
+         "image":".\/logos\/Migrantinnenbeirat_Signet.jpg",
          "imageheight":64,
          "imagewidth":256,
          "margin":0,
@@ -23403,7 +23403,7 @@
         {
          "columns":2,
          "firstgid":2809,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/ofek.png",
+         "image":".\/logos\/ofek.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -23416,7 +23416,7 @@
         {
          "columns":2,
          "firstgid":2813,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/LogomitFreiburg.png",
+         "image":".\/logos\/LogomitFreiburg.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -23429,7 +23429,7 @@
         {
          "columns":8,
          "firstgid":2817,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/ourvoice.png",
+         "image":".\/logos\/ourvoice.png",
          "imageheight":64,
          "imagewidth":256,
          "margin":0,
@@ -23442,7 +23442,7 @@
         {
          "columns":6,
          "firstgid":2833,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/profamilia.png",
+         "image":".\/logos\/profamilia.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
@@ -23455,7 +23455,7 @@
         {
          "columns":2,
          "firstgid":2845,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/romabuero.png",
+         "image":".\/logos\/romabuero.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
@@ -23468,7 +23468,7 @@
         {
          "columns":4,
          "firstgid":2849,
-         "image":"..\/..\/..\/..\/2021-wgr\/logos\/ZeugenderFluchteV_Freiburg.png",
+         "image":".\/logos\/ZeugenderFluchteV_Freiburg.png",
          "imageheight":64,
          "imagewidth":128,
          "margin":0,
