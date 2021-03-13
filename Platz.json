@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsiteTrigger",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/hoVParp4RMU"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/hoVParp4RMU"
                 }],
          "type":"tilelayer",
          "visible":true,
