@@ -125,7 +125,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"NoopenWebsite",
                  "type":"string",
                  "value":"https:\/\/www.youtube-nocookie.com\/embed\/N_U48sedRgA?autoplay=1"
                 }],
