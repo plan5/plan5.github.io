@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/hoVParp4RMU"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/hoVParp4RMU?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -109,7 +109,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/5uYwW1_xazA"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/5uYwW1_xazA?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -127,7 +127,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/N_U48sedRgA"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/N_U48sedRgA?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/5UXBi3lEYkE"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/5UXBi3lEYkE?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -163,7 +163,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/HMFAjlci2ME"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/HMFAjlci2ME?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/RuQ-x2KK1jA"
+                 "value":"https:\/\/www.youtube-nocookie.com\/embed\/RuQ-x2KK1jA?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
