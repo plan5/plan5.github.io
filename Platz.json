@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/plan5.github.io\/subpages\/inzeitung.html"
+                 "value":"https:\/\/www.inzeitung.de\/aktuelles\/ZentraleBegriffe.php"
                 }],
          "type":"tilelayer",
          "visible":true,
