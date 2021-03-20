@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/freiburg-postkolonial.de"
+                 "value":"https:\/\/plan5.github.io\/subpages\/freiburgpostkolonial.html"
                 }],
          "type":"tilelayer",
          "visible":true,
